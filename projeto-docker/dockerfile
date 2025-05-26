@@ -1,0 +1,9 @@
+FROM httpd:2.4
+
+WORKDIR /usr/local/apache2/htdocs/
+
+COPY solifit.tar.gz .
+
+RUN tar -xzf solifit.tar.gz && rm solifit.tar.gz
+
+RUN chown -R www-data:www-data . && chmod -R 755 .
