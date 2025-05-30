@@ -65,6 +65,6 @@ projeto-docker/
 ## 👤 Autor
 
 ### **Gabriel Paixão**
-Estudante de TI e entusiasta de DevOps e containers 🐳
+Estudante de TI e entusiasta de DevOps 🐳
 - [GitHub](https://github.com/gabrielpashao/)
 - [Linkedin](https://linkedin.com/in/gabrielspaixao/)
