@@ -27,7 +27,7 @@ git clone https://github.com/paixao-dev/projeto-docker.git
 2. **Acesse a pasta clonada:**
 
 ```bash
-cd projeto-docker
+cd docker-container-web
 ```
 
 3. **Execute o Docker Compose:**
