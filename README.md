@@ -30,12 +30,19 @@ git clone https://github.com/paixao-dev/projeto-docker.git
 cd docker-container-web
 ```
 
-3. **Execute o Docker Compose:**
+3. **Acesse a pasta do projeto:**
+
+```bash
+cd projeto-docker
+```
+
+4. **Execute o Docker Compose:**
 
 ```bash
 $ docker compose up -d --build
 ```
-3. **Abra o navegador e acesse:**
+
+5. **Abra o navegador e acesse:**
 
 ```bash
 http://localhost:8080
